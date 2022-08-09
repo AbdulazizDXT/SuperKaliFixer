@@ -9,11 +9,11 @@ mv NetworkManager.conf /etc/NetworkManager/
 service NetworkManager restart
 #Fix Drivers TP-Link WN772
 sudo apt-get update -y && sudo apt-get upgrade -y && sudo  apt-get dist-upgrade
-sudo apt-get install bc
-sudo apt-get install build-essential 
-sudo apt-get install libelf-dev 
-sudo apt-get install linux-headers-$(uname -r)
-sudo apt-get install dkms
+sudo apt-get install bc -y
+sudo apt-get install build-essential -y
+sudo apt-get install libelf-dev -y
+sudo apt-get install linux-headers-$(uname -r) -y
+sudo apt-get install dkms -y
 sudo rmmod r8188eu.ko
 git clone https://github.com/aircrack-ng/rtl8188eus
 cd rtl8188eus
