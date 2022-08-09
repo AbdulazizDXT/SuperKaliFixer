@@ -20,12 +20,12 @@
  - For KALI Linux :
     - ```git clone https://github.com/AbdulazizDXT/SuperKaliFixer```
     - ```cd SuperKaliFixer```
-    - ```chmod +x FixedScript.sh```
-    - ```./install.sh```
+    - ```chmod +x FixerScript.sh```
+    - ```./FixerScript.sh```
 
-#### Or, directly run "Root Users {sudo su}" :
+#### Or, directly run :
 ```
-git clone https://github.com/AbdulazizDXT/SuperASS ;cd SuperASS ;chmod +x install.sh ;./install.sh
+git clone https://github.com/AbdulazizDXT/SuperKaliFixer ;cd SuperKaliFixer ;chmod +x FixerScript.sh ;./FixerScript.sh
 
 ```
 ## [+] Usage
