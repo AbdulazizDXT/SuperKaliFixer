@@ -11,7 +11,7 @@
 
 ## [√] Description :
 
-***The best tool to solve most Kali Linux problems automatically!
+***The best tool to solve most Kali Linux problems automatically!***
 
  - (if you encounter a problem, you can inform us via e-mail and we will respond to you within 24 hours)
 
@@ -28,11 +28,11 @@
 git clone https://github.com/AbdulazizDXT/SuperKaliFixer ;cd SuperKaliFixer ;chmod +x FixerScript.sh ;./FixerScript.sh
 
 ```
+
 ## [+] Usage
 
-1. Run the script
-2. SuperASS file window will open automatically after installation
-
+1. Open Terminal 
+2. Run The Script 
 
 ## [√] Features:
 
